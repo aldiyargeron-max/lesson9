@@ -1,3 +1,3 @@
-import { hello } from './src/scripts/geron';
+import { changeText } from './src/scripts/geron';
 
-console.log(hello);
+console.log(changeText);
